@@ -1,0 +1,334 @@
+═══════════════════════════════════════════════════════════════
+    🎨 CUSTOMIZATION TEMPLATE - COPY & PASTE READY
+═══════════════════════════════════════════════════════════════
+
+Use this template to quickly customize your website content.
+Copy the sections below and replace in index.html.
+
+═══════════════════════════════════════════════════════════════
+📞 CONTACT INFORMATION
+═══════════════════════════════════════════════════════════════
+
+CURRENT:
+--------
+Company: The Daydream Trek
+Phone: +91 98765 43210
+Email: info@daydreamtrek.com
+Address: New Delhi, India
+WhatsApp: 919876543210
+
+YOUR DETAILS:
+-------------
+Company: _________________________________
+Phone: ___________________________________
+Email: ___________________________________
+Address: _________________________________
+WhatsApp: ________________________________
+
+═══════════════════════════════════════════════════════════════
+🏔️ HERO SECTION TEXT
+═══════════════════════════════════════════════════════════════
+
+CURRENT:
+--------
+Subtitle: Discover Your Next Adventure
+Title: Touching Clouds, Finding Peace
+Description: Embark on unforgettable journeys to breathtaking destinations
+
+YOUR TEXT:
+----------
+Subtitle: _________________________________
+Title: ____________________________________
+Description: ______________________________
+
+═══════════════════════════════════════════════════════════════
+📍 DESTINATIONS (Add your own)
+═══════════════════════════════════════════════════════════════
+
+TEMPLATE FOR NEW DESTINATION:
+------------------------------
+<div class="destination-card">
+    <div class="destination-image">
+        <img src="YOUR-IMAGE-URL" alt="DESTINATION-NAME">
+        <span class="destination-badge">BADGE-TEXT</span>
+    </div>
+    <div class="destination-info">
+        <h3>DESTINATION-NAME</h3>
+        <p><i class="fas fa-map-marker-alt"></i> LOCATION</p>
+        <div class="destination-meta">
+            <span><i class="fas fa-calendar"></i> X Days</span>
+            <span class="price">₹XX,XXX</span>
+        </div>
+    </div>
+</div>
+
+EXAMPLE DESTINATIONS TO ADD:
+-----------------------------
+1. Destination: Rishikesh
+   Location: Uttarakhand
+   Days: 3 Days
+   Price: ₹8,999
+   Badge: Adventure
+
+2. Destination: Goa
+   Location: Goa
+   Days: 4 Days
+   Price: ₹14,999
+   Badge: Beach
+
+3. Destination: Ladakh
+   Location: Jammu & Kashmir
+   Days: 8 Days
+   Price: ₹24,999
+   Badge: Extreme
+
+═══════════════════════════════════════════════════════════════
+📦 TOUR PACKAGES (Customize)
+═══════════════════════════════════════════════════════════════
+
+TEMPLATE FOR NEW PACKAGE:
+--------------------------
+<div class="package-card">
+    <div class="package-image">
+        <img src="IMAGE-URL" alt="PACKAGE-NAME">
+        <span class="package-badge">BADGE</span>
+        <button class="wishlist-btn"><i class="far fa-heart"></i></button>
+    </div>
+    <div class="package-content">
+        <div class="package-rating">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star-half-alt"></i>
+            <span>(4.5)</span>
+        </div>
+        <h3>PACKAGE TITLE</h3>
+        <p>PACKAGE DESCRIPTION</p>
+        <div class="package-features">
+            <span><i class="fas fa-clock"></i> X Days</span>
+            <span><i class="fas fa-users"></i> X+ People</span>
+            <span><i class="fas fa-map-marked-alt"></i> X Places</span>
+        </div>
+        <div class="package-footer">
+            <div class="package-price">
+                <span class="price-label">Starting from</span>
+                <span class="price">₹XX,XXX</span>
+            </div>
+            <button class="btn btn-primary">Book Now</button>
+        </div>
+    </div>
+</div>
+
+YOUR PACKAGE IDEAS:
+-------------------
+Package 1: _________________________________
+Price: ₹___________________________________
+Duration: __________________________________
+Description: _______________________________
+
+Package 2: _________________________________
+Price: ₹___________________________________
+Duration: __________________________________
+Description: _______________________________
+
+Package 3: _________________________________
+Price: ₹___________________________________
+Duration: __________________________________
+Description: _______________________________
+
+═══════════════════════════════════════════════════════════════
+💬 TESTIMONIALS (Add your own)
+═══════════════════════════════════════════════════════════════
+
+TEMPLATE FOR NEW TESTIMONIAL:
+------------------------------
+<div class="testimonial-card">
+    <div class="testimonial-rating">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+    </div>
+    <p>"YOUR TESTIMONIAL TEXT HERE"</p>
+    <div class="testimonial-author">
+        <img src="https://i.pravatar.cc/100?img=X" alt="NAME">
+        <div class="author-info">
+            <h4>CLIENT NAME</h4>
+            <span>CITY, COUNTRY</span>
+        </div>
+    </div>
+</div>
+
+YOUR TESTIMONIALS:
+------------------
+Client 1: _________________________________
+Review: ___________________________________
+Location: _________________________________
+
+Client 2: _________________________________
+Review: ___________________________________
+Location: _________________________________
+
+Client 3: _________________________________
+Review: ___________________________________
+Location: _________________________________
+
+═══════════════════════════════════════════════════════════════
+🎨 COLOR SCHEMES (Choose one or create your own)
+═══════════════════════════════════════════════════════════════
+
+OPTION 1: ADVENTURE ORANGE (Current)
+-------------------------------------
+--primary-color: #ff6b35;
+--secondary-color: #004e89;
+--dark-color: #1a1a2e;
+
+OPTION 2: NATURE GREEN
+-----------------------
+--primary-color: #27ae60;
+--secondary-color: #16a085;
+--dark-color: #2c3e50;
+
+OPTION 3: SKY BLUE
+-------------------
+--primary-color: #3498db;
+--secondary-color: #2980b9;
+--dark-color: #34495e;
+
+OPTION 4: SUNSET PURPLE
+------------------------
+--primary-color: #9b59b6;
+--secondary-color: #8e44ad;
+--dark-color: #2c3e50;
+
+OPTION 5: ROYAL GOLD
+---------------------
+--primary-color: #f39c12;
+--secondary-color: #e67e22;
+--dark-color: #2c3e50;
+
+YOUR CHOICE: Option ___
+
+═══════════════════════════════════════════════════════════════
+📱 SOCIAL MEDIA LINKS
+═══════════════════════════════════════════════════════════════
+
+Add your social media URLs in the footer section:
+
+Facebook: _________________________________
+Instagram: ________________________________
+Twitter: __________________________________
+YouTube: __________________________________
+LinkedIn: _________________________________
+
+═══════════════════════════════════════════════════════════════
+📝 ABOUT SECTION TEXT
+═══════════════════════════════════════════════════════════════
+
+CURRENT:
+--------
+"At The Daydream Trek, we believe travel is more than just 
+visiting places - it's about collecting moments, building 
+connections, and discovering new sides of yourself."
+
+YOUR TEXT:
+----------
+Paragraph 1: ______________________________
+____________________________________________
+____________________________________________
+
+Paragraph 2: ______________________________
+____________________________________________
+____________________________________________
+
+═══════════════════════════════════════════════════════════════
+🎯 CALL-TO-ACTION TEXT
+═══════════════════════════════════════════════════════════════
+
+CURRENT:
+--------
+Heading: Ready for Your Next Adventure?
+Text: Don't see your dream destination? Connect with us and 
+we'll customize a trip just for you!
+
+YOUR TEXT:
+----------
+Heading: __________________________________
+Text: _____________________________________
+___________________________________________
+
+═══════════════════════════════════════════════════════════════
+🖼️ IMAGE SOURCES (Where to get free images)
+═══════════════════════════════════════════════════════════════
+
+FREE IMAGE WEBSITES:
+--------------------
+1. Unsplash.com - High quality, free
+2. Pexels.com - Free stock photos
+3. Pixabay.com - Free images
+4. Freepik.com - Free vectors & photos
+
+RECOMMENDED IMAGE SIZES:
+------------------------
+Hero Background: 1920x1080px
+Destination Cards: 600x400px
+Package Cards: 800x600px
+Category Cards: 600x400px
+About Section: 800x600px
+
+═══════════════════════════════════════════════════════════════
+✅ PRE-LAUNCH CHECKLIST
+═══════════════════════════════════════════════════════════════
+
+□ Updated company name
+□ Updated phone number
+□ Updated email address
+□ Updated WhatsApp number
+□ Updated physical address
+□ Added social media links
+□ Customized hero text
+□ Updated destinations
+□ Updated packages & prices
+□ Added testimonials
+□ Changed colors (if needed)
+□ Replaced images (if needed)
+□ Tested all buttons
+□ Tested on mobile
+□ Tested on tablet
+□ Tested on desktop
+□ Checked all links work
+□ Spell-checked all content
+□ Optimized images
+□ Ready to show client!
+
+═══════════════════════════════════════════════════════════════
+🚀 QUICK TIPS
+═══════════════════════════════════════════════════════════════
+
+1. Keep text concise and engaging
+2. Use high-quality images only
+3. Update prices regularly
+4. Add real testimonials when available
+5. Test website on actual mobile devices
+6. Keep WhatsApp number active
+7. Respond to inquiries quickly
+8. Update destinations seasonally
+9. Add new packages regularly
+10. Monitor website performance
+
+═══════════════════════════════════════════════════════════════
+📞 SUPPORT
+═══════════════════════════════════════════════════════════════
+
+Need help with customization?
+- Check README.md for detailed guide
+- All code is commented for easy understanding
+- Each section is clearly labeled in HTML
+
+═══════════════════════════════════════════════════════════════
+
+Good luck with your website! 🎉
+
+═══════════════════════════════════════════════════════════════

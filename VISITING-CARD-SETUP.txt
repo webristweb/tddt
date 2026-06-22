@@ -1,0 +1,53 @@
+VISITING CARD SETUP INSTRUCTIONS
+=================================
+
+✅ COMPLETED:
+- Added visiting card modal popup
+- Added CSS styling for the modal
+- Added JavaScript functions to open/close the modal
+- Mapped all destination names to their card images
+
+📁 FOLDER STRUCTURE NEEDED:
+Create a folder named "visiting card" in the website directory and place your visiting card images there.
+
+website/
+  └── visiting card/
+      ├── CHAR DHAM YATRA.png
+      ├── CHOPTA TUNGNATH TREK.png
+      ├── Dayara Bugyal Trek.png
+      ├── HAMPTA PASS TREK.png
+      ├── JAISALMER DESERT TOUR.png
+      ├── JIBHI TIRTHAN VALLEY TOUR.png
+      ├── KEDARKANTHA TREK.png
+      ├── KEDARNATH.png
+      ├── KUARI PASS TREK.png
+      ├── MCLEODGANJ + TRIUND TREK.png
+      ├── RISHIKESH ADVENTURE TOUR.png
+      ├── MANALI.png (if you have it)
+      ├── CHAKRATA TIGERFALL.png (if you have it)
+      ├── HARSIL VALLEY.png (if you have it)
+      ├── AULI CHOPTA TUNGNATH.png (if you have it)
+      ├── SPITI VALLEY.png (if you have it)
+      └── MADHYA MAHESHWAR.png (if you have it)
+
+🎯 HOW IT WORKS:
+1. User clicks "View Visiting Card" button on any destination
+2. Modal popup appears with dark overlay
+3. Visiting card image is displayed in the center
+4. User can close by:
+   - Clicking the X button
+   - Clicking outside the card (on the dark overlay)
+   - Pressing ESC key
+
+✨ FEATURES:
+- Smooth fade-in animation
+- Zoom-in effect when opening
+- Blur background effect
+- Responsive design (works on mobile)
+- Close button with hover effect
+- ESC key support
+- Click outside to close
+
+📝 NOTE:
+If a visiting card image is not found, the system will show an alert message.
+Make sure all image file names match exactly as listed above (case-sensitive).

@@ -1,0 +1,473 @@
+🏜️ JAISALMER PAGE - VISUAL DESIGN GUIDE 🏰
+
+═══════════════════════════════════════════════════════════════════════════════
+                        PREMIUM DESIGN SHOWCASE
+═══════════════════════════════════════════════════════════════════════════════
+
+🎨 DESIGN PHILOSOPHY
+═══════════════════════════════════════════════════════════════════════════════
+
+The Jaisalmer page design is inspired by:
+- Golden sandstone architecture of Jaisalmer Fort
+- Desert sunset colors
+- Royal Rajasthani heritage
+- Modern luxury travel aesthetics
+- Premium user experience standards
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📐 LAYOUT STRUCTURE
+═══════════════════════════════════════════════════════════════════════════════
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                          NAVIGATION BAR                                     │
+│  Logo | About | Team | Gallery | Our Treks ▼ | Contact | Upcoming ▼ | 📞  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│                          🏜️ HERO SECTION 🏜️                                │
+│                                                                             │
+│                    [Golden Badge: THE GOLDEN CITY]                          │
+│                                                                             │
+│                  ✨ Discover Jaisalmer & Longewala ✨                       │
+│                                                                             │
+│         Experience the magic of the Thar Desert, explore majestic           │
+│         forts, witness historic war memorials, and immerse yourself         │
+│         in the golden beauty of Rajasthan's crown jewel                     │
+│                                                                             │
+│         [Book Your Adventure]  [Explore Itinerary]                          │
+│                                                                             │
+│                    (Full-screen with parallax effect)                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│                      WHY CHOOSE JAISALMER?                                  │
+│                                                                             │
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐   │
+│  │   🏰    │  │   🐪    │  │   🎖️    │  │   🏛️    │  │   🌅    │   │
+│  │ Majestic │  │  Desert  │  │   War    │  │ Ancient  │  │  Sunset  │   │
+│  │   Fort   │  │  Safari  │  │ Memorial │  │ Havelis  │  │  Views   │   │
+│  └──────────┘  └──────────┘  └──────────┘  └──────────┘  └──────────┘   │
+│                                                                             │
+│                          ┌──────────┐                                       │
+│                          │   🎭    │                                       │
+│                          │ Cultural │                                       │
+│                          │  Shows   │                                       │
+│                          └──────────┘                                       │
+│                                                                             │
+│              (6 animated cards with hover effects)                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│                    DETAILED ITINERARY SECTION                               │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐  │
+│  │  About JAISALMER (LONGEWALA)                                        │  │
+│  │                                                                      │  │
+│  │  📍 Location: Rajasthan    📅 Duration: 5 Days / 2 Nights          │  │
+│  │  📊 Difficulty: Easy       🏨 Accommodation: Tents                  │  │
+│  └─────────────────────────────────────────────────────────────────────┘  │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐  │
+│  │  [Description with golden background and camel emoji]               │  │
+│  └─────────────────────────────────────────────────────────────────────┘  │
+│                                                                             │
+│  [Tabs: SHORT ITINERARY | DETAILS | HOW TO REACH | TERMS | ESSENTIALS]    │
+│  [Sub-tabs: AVAILABLE DATES | PRICES | INCLUSION | EXCLUSION]             │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐  │
+│  │  ✈️  DAY 0 – DEPARTURE DAY                                          │  │
+│  │  [Description...]                                                    │  │
+│  └─────────────────────────────────────────────────────────────────────┘  │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐  │
+│  │  🏰  DAY 1 – ARRIVAL IN JAISALMER                                   │  │
+│  │  [Description...]                                                    │  │
+│  └─────────────────────────────────────────────────────────────────────┘  │
+│                                                                             │
+│  [... More days ...]                                                        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│                        JAISALMER GALLERY                                    │
+│                                                                             │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐                    │
+│  │              │  │              │  │              │                    │
+│  │  Jaisalmer   │  │    Desert    │  │   Patwon     │                    │
+│  │     Fort     │  │    Safari    │  │  Ki Haveli   │                    │
+│  │              │  │              │  │              │                    │
+│  └──────────────┘  └──────────────┘  └──────────────┘                    │
+│                                                                             │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐                    │
+│  │              │  │              │  │              │                    │
+│  │   Gadisar    │  │  Longewala   │  │   Cultural   │                    │
+│  │     Lake     │  │   Memorial   │  │ Performance  │                    │
+│  │              │  │              │  │              │                    │
+│  └──────────────┘  └──────────────┘  └──────────────┘                    │
+│                                                                             │
+│              (Hover to see descriptions, click for lightbox)                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                          SIDEBAR (Sticky)                                   │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐  │
+│  │  Destinations                                                        │  │
+│  │  → Kedarnath                                                         │  │
+│  │  → Hampta Pass                                                       │  │
+│  │  → Kasol Kheerganga                                                  │  │
+│  │  [... more destinations ...]                                         │  │
+│  └─────────────────────────────────────────────────────────────────────┘  │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐  │
+│  │  Book Your Trip                                                      │  │
+│  │  [Name]                                                              │  │
+│  │  [Email]                                                             │  │
+│  │  [Phone]                                                             │  │
+│  │  [No. of People]                                                     │  │
+│  │  [Message]                                                           │  │
+│  │  [💳 PAY ONLINE]                                                     │  │
+│  └─────────────────────────────────────────────────────────────────────┘  │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐  │
+│  │  Offers:                                                             │  │
+│  │  [Beautiful offer banner with EXPLORE THE WORLD]                    │  │
+│  │  [BOOK NOW button]                                                   │  │
+│  └─────────────────────────────────────────────────────────────────────┘  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎨 COLOR USAGE GUIDE
+═══════════════════════════════════════════════════════════════════════════════
+
+PRIMARY COLORS:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Jaisalmer Gold (#D4AF37)  - Main brand color, buttons, accents             │
+│ Dark Gold (#B8860B)       - Hover states, shadows                           │
+│ Light Gold (#FFD700)      - Highlights, gradients                           │
+│ Desert Sand (#EDC9AF)     - Backgrounds, soft accents                       │
+│ Desert Orange (#FF8C42)   - CTAs, important elements                        │
+│ Royal Blue (#1E3A8A)      - Text, professional elements                     │
+│ Sunset Red (#DC2626)      - Urgent CTAs, special offers                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+GRADIENT COMBINATIONS:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Hero Background:    Gold → Orange → Red (with overlay)                     │
+│ Buttons:            Gold → Desert Orange                                    │
+│ Headers:            Gold → Dark Gold                                        │
+│ Cards:              Light backgrounds with gold borders                     │
+│ Hover Effects:      Sunset Red → Desert Orange                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════════════
+
+✨ ANIMATION SHOWCASE
+═══════════════════════════════════════════════════════════════════════════════
+
+1. HERO SECTION
+   ┌─────────────────────────────────────────────────────────────────────────┐
+   │ • Background: Pulsing gradient (8s loop)                                │
+   │ • Badge: Floating animation (3s loop)                                   │
+   │ • Title: Shimmer effect (3s loop)                                       │
+   │ • Content: Fade in from bottom on load                                  │
+   │ • Parallax: Moves slower than scroll                                    │
+   └─────────────────────────────────────────────────────────────────────────┘
+
+2. HIGHLIGHT CARDS
+   ┌─────────────────────────────────────────────────────────────────────────┐
+   │ • On Scroll: Fade in + slide up (staggered)                             │
+   │ • On Hover: Scale up + lift + shadow increase                           │
+   │ • Icon: Pulse ring animation (2s loop)                                  │
+   │ • Shine: Light sweep on hover                                           │
+   └─────────────────────────────────────────────────────────────────────────┘
+
+3. ITINERARY ITEMS
+   ┌─────────────────────────────────────────────────────────────────────────┐
+   │ • On Hover: Slide right + border color change                           │
+   │ • Icon: Pulse ring + rotation                                           │
+   │ • Title: Underline grows from left                                      │
+   │ • Left Border: Grows from top on hover                                  │
+   └─────────────────────────────────────────────────────────────────────────┘
+
+4. GALLERY ITEMS
+   ┌─────────────────────────────────────────────────────────────────────────┐
+   │ • On Scroll: Fade in + slide up                                         │
+   │ • On Hover: Lift + scale + image zoom + rotate                          │
+   │ • Overlay: Slide up from bottom                                         │
+   │ • On Click: Lightbox with zoom in effect                                │
+   └─────────────────────────────────────────────────────────────────────────┘
+
+5. BUTTONS
+   ┌─────────────────────────────────────────────────────────────────────────┐
+   │ • On Hover: Lift + scale + shadow increase                              │
+   │ • Background: Circular expand from center                               │
+   │ • On Click: Ripple effect                                               │
+   └─────────────────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📱 RESPONSIVE BREAKPOINTS
+═══════════════════════════════════════════════════════════════════════════════
+
+DESKTOP (1200px+)
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ • Full 2-column layout (content + sidebar)                                 │
+│ • Hero: 85vh height                                                         │
+│ • Highlights: 3 columns                                                     │
+│ • Gallery: 3 columns                                                        │
+│ • All animations enabled                                                    │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+TABLET (768px - 1199px)
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ • Single column layout                                                      │
+│ • Hero: 70vh height                                                         │
+│ • Highlights: 2 columns                                                     │
+│ • Gallery: 2 columns                                                        │
+│ • Sidebar moves below content                                               │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+MOBILE (480px - 767px)
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ • Single column layout                                                      │
+│ • Hero: 60vh height                                                         │
+│ • Highlights: 1 column                                                      │
+│ • Gallery: 1 column                                                         │
+│ • Buttons: Full width                                                       │
+│ • Reduced padding                                                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+SMALL MOBILE (<480px)
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ • Compact layout                                                            │
+│ • Smaller font sizes                                                        │
+│ • Touch-optimized buttons                                                   │
+│ • Simplified animations                                                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎯 INTERACTIVE ELEMENTS
+═══════════════════════════════════════════════════════════════════════════════
+
+HOVER STATES:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Element          │ Effect                                                   │
+│──────────────────┼──────────────────────────────────────────────────────────│
+│ Highlight Cards  │ Lift, scale, shadow, border color change                │
+│ Gallery Items    │ Lift, scale, image zoom, overlay reveal                 │
+│ Buttons          │ Lift, scale, background change, shadow                  │
+│ Tabs             │ Background gradient, color change, lift                 │
+│ Destination Links│ Slide right, color change, icon move                    │
+│ Form Inputs      │ Border color, shadow, lift                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+CLICK ACTIONS:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Element              │ Action                                               │
+│──────────────────────┼──────────────────────────────────────────────────────│
+│ Book Adventure Btn   │ Smooth scroll to booking form                        │
+│ Explore Itinerary    │ Smooth scroll to itinerary section                   │
+│ Gallery Items        │ Open lightbox with image                             │
+│ Book Now (Offers)    │ Scroll to booking form + highlight                   │
+│ Submit Form          │ Validate → WhatsApp redirect                         │
+│ Tabs                 │ Switch content + ripple effect                       │
+│ Destination Links    │ Navigate to trek page                                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════════════
+
+💎 PREMIUM FEATURES
+═══════════════════════════════════════════════════════════════════════════════
+
+VISUAL EFFECTS:
+✨ Gradient text with shimmer
+✨ Backdrop blur on overlays
+✨ Multiple shadow layers
+✨ Smooth cubic-bezier transitions
+✨ GPU-accelerated transforms
+✨ Parallax scrolling
+✨ Scroll-triggered animations
+✨ Lightbox gallery
+✨ Ripple effects
+✨ Pulse animations
+
+DESIGN DETAILS:
+✨ Custom golden scrollbar
+✨ Animated icons
+✨ Floating elements
+✨ Pattern overlays
+✨ Gradient borders
+✨ Rounded corners (25px)
+✨ Consistent spacing
+✨ Typography hierarchy
+✨ Color harmony
+✨ Visual balance
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎨 TYPOGRAPHY SYSTEM
+═══════════════════════════════════════════════════════════════════════════════
+
+FONT FAMILY:
+Primary: 'Poppins' (300, 400, 500, 600, 700, 800)
+Display: 'Playfair Display' (700, 800)
+
+FONT SIZES:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Hero Title:        72px (Desktop) → 36px (Mobile)                           │
+│ Section Titles:    48px (Desktop) → 28px (Mobile)                           │
+│ Card Titles:       22px                                                      │
+│ Body Text:         15-17px                                                   │
+│ Small Text:        12-14px                                                   │
+│ Buttons:           16-18px                                                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+FONT WEIGHTS:
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Headings:          800-900 (Extra Bold/Black)                               │
+│ Subheadings:       700 (Bold)                                               │
+│ Body:              400-500 (Regular/Medium)                                 │
+│ Light Text:        300 (Light)                                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🚀 PERFORMANCE OPTIMIZATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+CSS:
+✅ Hardware acceleration (transform, opacity)
+✅ Will-change for animated elements
+✅ Efficient selectors
+✅ Minimal repaints
+✅ CSS containment where applicable
+
+JAVASCRIPT:
+✅ Intersection Observer for scroll animations
+✅ Debounced scroll events
+✅ Event delegation
+✅ Minimal DOM queries
+✅ Efficient animations
+
+IMAGES:
+✅ Optimized image sizes
+✅ Lazy loading ready
+✅ WebP format support
+✅ Responsive images
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📊 CONVERSION ELEMENTS
+═══════════════════════════════════════════════════════════════════════════════
+
+PRIMARY CTAs:
+1. "Book Your Adventure" (Hero) → Booking Form
+2. "PAY ONLINE" (Sidebar) → WhatsApp
+3. "BOOK NOW" (Offers) → Booking Form
+
+SECONDARY CTAs:
+1. "Explore Itinerary" (Hero) → Itinerary Section
+2. Destination Links → Other Trek Pages
+3. Phone Number → Direct Call
+
+TRUST SIGNALS:
+✅ Professional design
+✅ Clear information
+✅ Easy contact methods
+✅ Visual proof (gallery)
+✅ Detailed itinerary
+✅ Feature highlights
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎉 SUCCESS METRICS
+═══════════════════════════════════════════════════════════════════════════════
+
+VISUAL APPEAL:
+✅ Modern, premium design
+✅ Consistent golden theme
+✅ Professional aesthetics
+✅ High-quality visuals
+✅ Smooth animations
+
+USER EXPERIENCE:
+✅ Easy navigation
+✅ Clear information hierarchy
+✅ Fast loading
+✅ Mobile-friendly
+✅ Accessible
+
+ENGAGEMENT:
+✅ Multiple interaction points
+✅ Visual feedback
+✅ Compelling content
+✅ Clear CTAs
+✅ Social proof ready
+
+CONVERSION:
+✅ Multiple booking touchpoints
+✅ Easy form submission
+✅ WhatsApp integration
+✅ Clear value proposition
+✅ Trust building elements
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎊 FINAL RESULT
+═══════════════════════════════════════════════════════════════════════════════
+
+The Jaisalmer page now features:
+
+✨ STUNNING HERO SECTION
+   - Full-screen impact with parallax
+   - Golden theme throughout
+   - Compelling headline and description
+   - Two prominent CTAs
+
+✨ ENGAGING HIGHLIGHTS
+   - 6 beautiful feature cards
+   - Animated icons
+   - Hover effects
+   - Scroll animations
+
+✨ ENHANCED ITINERARY
+   - Golden theme integration
+   - Clear day-by-day breakdown
+   - Animated elements
+   - Easy-to-read layout
+
+✨ BEAUTIFUL GALLERY
+   - 6 stunning images
+   - Hover overlays
+   - Lightbox functionality
+   - Professional presentation
+
+✨ PROFESSIONAL BOOKING
+   - Enhanced form design
+   - Validation
+   - WhatsApp integration
+   - Multiple touchpoints
+
+═══════════════════════════════════════════════════════════════════════════════
+
+This design will make clients EXTREMELY HAPPY! 🎉
+
+The page perfectly captures the essence of Jaisalmer - the Golden City - with
+its beautiful golden color palette, smooth animations, and premium feel.
+
+Every element has been carefully crafted to provide an engaging, professional,
+and conversion-optimized experience that will attract and delight visitors.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🏜️ Welcome to the Golden City of Jaisalmer! 🏰
+
+═══════════════════════════════════════════════════════════════════════════════
